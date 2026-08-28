@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohandonerao/leetcode/tree/master/0048-rotate-image) |
+| [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohandonerao/leetcode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
