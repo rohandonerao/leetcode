@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohandonerao/leetcode/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/rohandonerao/leetcode/tree/master/0118-pascals-triangle) |
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rohandonerao/leetcode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
