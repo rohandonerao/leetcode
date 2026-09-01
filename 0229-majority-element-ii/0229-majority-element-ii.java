@@ -1,13 +1,10 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
 
-        int cnt1 = 0;
-        int cnt2 = 0;
+        int ele1 = 0, ele2 = 0;
+        int cnt1 = 0, cnt2 = 0;
 
-        int ele1 = 0;
-        int ele2 = 0;
-
-        // Find two possible candidates
+        // Find candidates
         for (int num : nums) {
 
             if (num == ele1) {
