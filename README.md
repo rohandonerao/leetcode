@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohandonerao/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rohandonerao/leetcode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohandonerao/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohandonerao/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
