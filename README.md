@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohandonerao/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/rohandonerao/leetcode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohandonerao/leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohandonerao/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rohandonerao/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rohandonerao/leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohandonerao/leetcode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohandonerao/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
@@ -80,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohandonerao/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
