@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/rohandonerao/leetcode/tree/master/0493-reverse-pairs) |
 | [0877-stone-game](https://github.com/rohandonerao/leetcode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohandonerao/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rohandonerao/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohandonerao/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rohandonerao/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohandonerao/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rohandonerao/leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohandonerao/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohandonerao/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/rohandonerao/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohandonerao/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohandonerao/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
